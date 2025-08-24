@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Aman Verma</h1>
+<h1 align="center">Hey 👋, I'm Aman Varma</h1>
 <h3 align="center">AI & Cloud Enthusiast | Exploring RAG and GenAI</h3>
 
 ---
@@ -19,7 +19,7 @@
 
 ## 🛠️ Tech Stack  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,html,css,c,cpp,mysql,tensorflow,pytorch,sklearn,git,github&perline=14" height="35"/>
+  <img src="https://skillicons.dev/icons?i=py,html,css,c,cpp,mysql,tensorflow,pytorch,sklearn,&perline=14" height="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="35" alt="numpy logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="35" alt="pandas logo"/>
 </div>
