@@ -19,7 +19,9 @@
 
 ## 🛠️ Tech Stack  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,html,css,c,cpp,mysql,tensorflow,pytorch,numpy,pandas,sklearn,docker,git,github" height="50"/>
+  <img src="https://skillicons.dev/icons?i=py,html,css,c,cpp,mysql,tensorflow,pytorch,sklearn,git,github&perline=14" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="35" alt="numpy logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="35" alt="pandas logo"/>
 </div>
 
 ---
