@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1 align="center">Hey 👋, I'm Aman Verma</h1>
+<h3 align="center">AI & Cloud Enthusiast | Exploring RAG and GenAI</h3>
 
-<!--
-**AmanVarma1/Amanvarma1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me   
+- 🌱 Currently learned **Agentic RAG & IBM Cloud AI Services**  
+- 🎓 Completed internship under **IBM SkillBuild Program --Edunet Foundation**  
+   - 📂 Projects: *Faculty Digital Profile Builder (RAG-Based)*  
+- 💼 Completed internship at **Unified Mentor**  
+   - 📱 Project: *Mobile Price Prediction*  
+   - 🩺 Project: *Lung Cancer Detection using past patient diagnosis data*  
+   - 🐾 Project: *Animal Classification*  
+- 💡 Interested in **Post-Quantum Cryptography, AI Agents, and OS Design**    
+- 🔭 Working on **secure, scalable, and innovative AI projects**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+## 🛠️ Tech Stack  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,html,css,c,cpp,mysql,tensorflow,pytorch,numpy,pandas,sklearn,docker,git,github" height="50"/>
+</div>
+
+---
+
+## 📈 GitHub Stats  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AmanVarma1&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmanVarma1&theme=tokyonight" height="150"/>
+</div>
+
+---
+
+## 🌐 Connect with Me  
+<div align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25"/>
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
