@@ -36,10 +36,11 @@
 
 ## 🌐 Connect with Me  
 <div align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25"/>
+  <a href="https://www.linkedin.com/in/aman-varma-b05864208/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/>
   </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="amanvarma0486@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="email logo"/>
   </a>
 </div>
+
