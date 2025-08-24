@@ -11,7 +11,7 @@
    - 📱 Project: *Mobile Price Prediction*  
    - 🩺 Project: *Lung Cancer Detection using past patient diagnosis data*  
    - 🐾 Project: *Animal Classification*  
-- 💡 Interested in **Post-Quantum Cryptography, AI Agents, and OS Design**    
+- 💡 Interested in **Post-Quantum Cryptography, AI Agents, GenAI, AI/ML, and OS Design**    
 - 🔭 Working on **secure, scalable, and innovative AI projects**  
 
 
