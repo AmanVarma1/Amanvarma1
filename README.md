@@ -4,14 +4,13 @@
 ---
 
 ## 🚀 About Me   
-- 🌱 Currently learned **Agentic RAG & IBM Cloud AI Services**  
 - 🎓 Completed internship under **IBM SkillBuild Program --Edunet Foundation**  
    - 📂 Projects: *Faculty Digital Profile Builder (RAG-Based)*  
 - 💼 Completed internship at **Unified Mentor**  
    - 📱 Project: *Mobile Price Prediction*  
    - 🩺 Project: *Lung Cancer Detection using past patient diagnosis data*  
    - 🐾 Project: *Animal Classification*  
-- 💡 Interested in **Post-Quantum Cryptography, AI Agents, GenAI, AI/ML, and OS Design**    
+- 💡 Interested in **Post-Quantum Cryptography, Software Engineering, AI/ML, and OS Design**    
 - 🔭 Working on **secure, scalable, and innovative AI projects**  
 
 
