@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Aman Varma</h1>
-<h3 align="center">AI & Cloud Enthusiast | Exploring RAG and GenAI</h3>
+<h3 align="center">AI & Cloud Enthusiast | Software Engineering and AI/ML</h3>
 
 ---
 
