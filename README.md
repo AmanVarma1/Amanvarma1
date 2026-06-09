@@ -4,6 +4,8 @@
 ---
 
 ## 🚀 About Me   
+- 🎓 Completed internship at **Maniyar Infotech**  
+   - 📂 Was Responsible for building and designing the company main website. And also updated the founder website.
 - 🎓 Completed internship under **IBM SkillBuild Program --Edunet Foundation**  
    - 📂 Projects: *Faculty Digital Profile Builder (RAG-Based)*  
 - 💼 Completed internship at **Unified Mentor**  
