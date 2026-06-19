@@ -18,7 +18,7 @@
 
 ## 🛠️ Tech Stack  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,html,css,c,mysql,sklearn&perline=14" height="35"/>
+  <img src="https://skillicons.dev/icons?i=py,html,css,mysql,sklearn&perline=14" height="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="35" alt="numpy logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="35" alt="pandas logo"/>
 </div>
