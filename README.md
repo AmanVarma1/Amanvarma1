@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Aman Varma</h1>
-<h3 align="center">Software Engineering & AI/ML Enthusiast </h3>
+<h3 align="center">Software Engineering & AI Enthusiast </h3>
 
 ---
 
@@ -12,7 +12,7 @@
    - 📱 Project: *Mobile Price Prediction*  
    - 🩺 Project: *Lung Cancer Detection using past patient diagnosis data*  
    - 🐾 Project: *Animal Classification*  
-- 💡 Interested in **Software Engineering, AI/ML, and System Design**   
+- 💡 Interested in **Software Engineering, AI, and System Design**   
 
 ---
 
